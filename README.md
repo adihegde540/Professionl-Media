@@ -1,2 +1,1 @@
-# MedTech
-Latest Medical technology news
+# Media
